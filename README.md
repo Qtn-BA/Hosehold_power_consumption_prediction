@@ -43,7 +43,7 @@ This archive contains 2075259 measurements gathered between December 2006 and No
 8. sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 9. sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-### References:
+### References and Dataset:
 * *Erandani Dunumalage, https://github.com/Erandani/LSTM-Time-Series-Forecasting-Model-for-Power-Usage-prediction/tree/master*
 * *https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set/data*
 
